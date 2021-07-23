@@ -1,7 +1,7 @@
 # Remote-Server-Configuration-Tool
 PHP script with web frontend to simplify remote server configuration
 
-This is a web frontend to remote_conf.php which accepts 4 arguments :-  Server IP/Hostname, Username, Password, RemoteCommand (optional). 
+remote_conf.php accepts 4 arguments :-  Server IP/Hostname, Username, Password, RemoteCommand (optional). 
 
 To set the web Admin password edit $web_password at the start of remote_conf.php.
 
