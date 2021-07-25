@@ -20,5 +20,4 @@ COPY - rsync files from webserver to remote server.
 EXPOSE - Open tcp port in iptables on remote server.
 
 
-The script format is the same as Docker so you can use a Docker script to configure any type of linux server.
-
+The script format is the same as Docker so you can combine Docker script to configure all your server requirements.
