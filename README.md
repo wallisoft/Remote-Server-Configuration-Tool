@@ -14,10 +14,10 @@ All output from remote_conf.php is saved in rsct.log which can be viewed or clea
 
 script.txt accepts the following keywords to perform actions on the remote server :-
 
-ENV - Set environment variables
-RUN - execute the shell commands on remotes server.
-COPY - rsync files from webserver to remote server.
-EXPOSE - Open tcp port in iptables on remote server.
+ENV - Set environment variables.  
+RUN - execute the shell commands on remotes server.  
+COPY - rsync files from webserver to remote server.  
+EXPOSE - Open tcp port in iptables on remote server.  
 
 
 The script format is the same as Docker so you can combine Docker script to configure all your server requirements.
